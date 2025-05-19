@@ -1,0 +1,27 @@
+{
+    "Right": {
+      "00000": "reset",
+      "01000": "move_up",
+      "00100": "move_down",
+      "00010": "move_left",
+      "00001": "move_right",
+      "01111": "wave_hand"
+    },
+    "Left": {
+      "00000": "reset",
+      "01000": "move_right",
+      "00100": "move_left",
+      "00010": "move_down",
+      "00001": "move_up",
+      "01111": "wave_hand"
+    },
+    "Combined": {
+      "01000_01000": "rainbow",
+      "00100_00100": "fire",
+      "01111_01111": "alert_red"
+    },
+    "Same": {
+      "01000_01000": "gradient",
+      "00100_00100": "wave" 
+    }
+  }

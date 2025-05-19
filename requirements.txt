@@ -1,0 +1,26 @@
+PyQt5>=5.15.0
+opencv-python>=4.5.0
+numpy>=1.20.0
+face_recognition>=1.3.0
+sounddevice>=0.4.0
+pyaudio>=0.2.11
+pyttsx3>=2.90
+gtts>=2.2.3
+requests>=2.25.0
+pypubsub>=4.0.3
+pygame>=2.0.0
+onnxruntime>=1.9.0
+pydub>=0.25.1
+langdetect>=1.0.9
+pillow>=8.3.1
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+SpeechRecognition>=3.8.1
+cvzone>=1.5.0
+aiofiles>=0.8.0
+
+# Opsiyonel paketler - ihtiyaca göre yüklenebilir
+# mediapipe>=0.8.9
+# tensorflow>=2.8.0
+# keras>=2.8.0
